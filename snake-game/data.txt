@@ -1,0 +1,9 @@
+1. 
+2.
+3.
+4. preprocessing
+5. 1 hot encoding
+6. tableu
+7. power bi
+8. apriori
+9. web analysis
